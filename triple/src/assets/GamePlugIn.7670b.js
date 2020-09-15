@@ -1,0 +1,1 @@
+cc.log("load gamePlugIn"),window.yyp={},window.yyp.config={},window.yyp.bundle={},yyp.eventCenter=yyp.eventCenter||new cc.EventTarget,cc.log("load gamePlugIn finish");
